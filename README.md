@@ -2,6 +2,7 @@
 Our team has successfully developed an innovative crash detection model leveraging the powerful YOLOv8 architecture. This cutting-edge solution is designed to provide real-time object detection capabilities, particularly for critical applications like crash detection.
 
 ## Key Metrics:
+![image](https://github.com/irohan0/Crash-Detection/assets/121719717/2d62cdf2-888c-4cbc-a314-a095c7e66bcd)
 
 The model's performance metrics are exceptional, boasting a Mean Average Precision (mAP) of 96.6. Additionally, precision and recall scores of 89.1 and 90.2, respectively, showcase the model's robustness in minimizing false positives and false negatives.
 
