@@ -1,7 +1,7 @@
 # Crash-Detection
 Our team has successfully developed an innovative crash detection model leveraging the powerful YOLOv8 architecture. This cutting-edge solution is designed to provide real-time object detection capabilities, particularly for critical applications like crash detection.
-
-![Crash_4-MadewithClipchamp1-ezgif com-video-to-gif-converter](https://github.com/irohan0/Crash-Detection/assets/121719717/7f4b0ab7-decd-4869-810d-bc914c50628b)  ![gif_crash_1](https://github.com/irohan0/Crash-Detection/assets/121719717/6650d8f2-d5da-4574-98eb-a588589f8f13)
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+|![Crash_4-MadewithClipchamp1-ezgif com-video-to-gif-converter](https://github.com/irohan0/Crash-Detection/assets/121719717/7f4b0ab7-decd-4869-810d-bc914c50628b)| ![gif_crash_1](https://github.com/irohan0/Crash-Detection/assets/121719717/6650d8f2-d5da-4574-98eb-a588589f8f13)|
 
 
 
@@ -13,10 +13,15 @@ The model's performance metrics are exceptional, boasting a Mean Average Precisi
 
 ## Model Results :
 ![results](https://github.com/irohan0/Crash-Detection/assets/121719717/220c462c-9077-4279-af4a-94302d9b5394)
+<p align="center">
                                          Fig - Results
+</p>
                                          
 ![confusion_matrix_normalized](https://github.com/irohan0/Crash-Detection/assets/121719717/e892bf6f-3313-42c2-bba8-25a3d755f10d)
+<p align="center">
                                          Fig - Confusion MAtrix
+</p>
+                                         
 
 ## End-to-End Website:
 
