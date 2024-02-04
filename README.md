@@ -24,6 +24,7 @@ The development of an end-to-end website was done using Wordpress and integratin
 ![p1](https://github.com/irohan0/Crash-Detection/assets/121719717/37b4a1db-4c87-484c-9a4e-b352e8f8daa6)
 
 The website is designed to send an in app SOS notification when our model detects an accident occurs.
+![detect](https://github.com/irohan0/Crash-Detection/assets/121719717/a852a1cb-b9a8-4f4d-9414-540dfd0f393d)
 
 
 ## Contributors :
